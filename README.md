@@ -6,6 +6,7 @@ Links:
 - GitHub Repo
 https://github.com/ktcwn/weatherApp
 - GitHub Pages
+https://ktcwn.github.io/weatherApp/
 
 Screenshots:
 - landing page
