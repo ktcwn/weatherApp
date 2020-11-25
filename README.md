@@ -3,8 +3,10 @@ Description: This repository holds files for a weather app. When deployed, user 
 Features: User is able to search cities and see weather predicitions for the next five days. Each weather card features an icon depicting the predicted weather conditions (sunny, rainy, cloudy, etc.). The application also includes a local storage feature that saves the users search history to the page so they can go back and check previously searched cities. The weather app shows temperature, humidity and wind speed. (I tried to add a UV index but the code wasn't executing properly.)
 
 Links:
-- 
-- 
+- GitHub Repo
+https://github.com/ktcwn/weatherApp
+- GitHub Pages
+
 Screenshots:
 
 
