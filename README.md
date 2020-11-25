@@ -12,7 +12,7 @@ Screenshots:
 <img src="https://github.com/ktcwn/weatherApp/blob/main/assets/WeatherLanding.png?raw=true">
 
 - user interaction
-<img src=" ">
+<img src="https://github.com/ktcwn/weatherApp/blob/main/assets/deployed.png?raw=true">
 
 
 
