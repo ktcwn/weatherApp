@@ -8,8 +8,11 @@ https://github.com/ktcwn/weatherApp
 - GitHub Pages
 
 Screenshots:
+- landing page
+<img src="https://github.com/ktcwn/weatherApp/blob/main/assets/WeatherLanding.png?raw=true">
 
-
+- user interaction
+<img src=" ">
 
 
 
